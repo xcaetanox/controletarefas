@@ -1,17 +1,22 @@
 #Some setup information :).
 
 ##Spring JPA Setup
-You need to change the **application.properties** and configure the login, password and url of your database. 
+Você precisa mudar **application.properties**  com usuario e senha do seu banco de dados e a url. 
 
+Projeto consiste em criar um sistema teste para criação de tarefas
+podendo remover editar, mudar status da tarefa.
 
-O usuário deve poder:
-Adicionar novas tarefas;
- Marcar e desmarcar o status de concluído;
-Editar o conteúdo da task;
- Deletar uma task;
-#A task pode ter: título e status, podendo conter adicionalmente descrição, datas de criação
+Foi desenvolvimento usado
 
-#Com as ações de :
-edição, remoção e conclusão.
+java 8 
+spring-boot
+MySql
+Jpa
+
+Hmtl
+BootStrap
+Css
+AngularJS
+
   	
 
